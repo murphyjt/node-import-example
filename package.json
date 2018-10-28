@@ -1,0 +1,12 @@
+{
+  "name": "node-import-example",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=8.5.0"
+  },
+  "author": "Joshua Murphy",
+  "license": "MIT",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs"
+  }
+}
